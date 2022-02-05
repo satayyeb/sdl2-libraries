@@ -11,7 +11,7 @@ SDL_ttf,
 Download the sdl2 file and enjoy :)
 
 
-for build your project use the CMakeLists.txt
+To build your project use the CMakeLists.txt
 
 
 64-bit gcc compiler + Cmake required.
