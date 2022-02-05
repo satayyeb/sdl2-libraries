@@ -8,7 +8,7 @@ SDL_image,
 SDL_ttf,  
 
 
-Download the sdl2 file and enjoy :)
+Download the project file and enjoy :)  It contains the libraries files and the CMake file
 
 
 To build your project use the CMakeLists.txt
